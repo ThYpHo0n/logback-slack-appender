@@ -6,7 +6,7 @@
 
 	<name>Logback Slack Appender</name>
 	<description>Logback appender for sending messages to Slack chats.</description>
-	<url>https://github.com/maricn/logback-slack-appender</url>
+	<url>https://github.com/thypho0n/logback-slack-appender</url>
 
 	<groupId>com.github.thypho0n</groupId>
 	<artifactId>logback-slack-appender</artifactId>

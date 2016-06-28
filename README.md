@@ -1,4 +1,6 @@
-This is a simple [Logback](http://logback.qos.ch/) appender which pushes logs to [Slack](https://slack.com/) via an incoming webhook url. 
+[![Build Status](https://travis-ci.org/ThYpHo0n/logback-slack-appender.svg?branch=master)](https://travis-ci.org/ThYpHo0n/logback-slack-appender)
+
+This is a simple [Logback](http://logback.qos.ch/) appender which pushes logs to [Slack](https://slack.com/) via an incoming webhook url.
 This project is forked from [github.com/maricn/logback-slack-appender](https://github.com/maricn/logback-slack-appender)
 Be aware of the limitations of Slack! Slack is not meant to be handling massive error logs.
 
